@@ -1,3 +1,4 @@
 # Lab8-Starter
 Students - Aaron Delgado
+https://aarond67.github.io/Lab8_Starter/
 Service workers are the way we are able to implement graceful degreation into our web app as it helps keep our app running even when the best conditions are not possible. When we are running in the best conditions is by loading or files on the network, but when it is either slow or offline without service workers it would break or not load. But now with service worker it catches and saves those resources as version to be used when the network is unavailable. So we can start with fully functionaltiy online but then degrade gracefullly as we go offline or with poor connection.
