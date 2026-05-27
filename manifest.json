@@ -1,12 +1,12 @@
 {
   "name": "Lab8_Starter",
   "short_name": "Aaron",
-  "description": "A recipe web app that is also including the use of service workers.",
-  "start_url": "./index.html",
+  "description": "A recipe web app that also includes the use of service workers.",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#0B0F14",
   "theme_color": "#2F4F4F",
-    "icons": [
+  "icons": [
     {
       "src": "./assets/images/icons/icon-192x192.png",
       "sizes": "192x192",
